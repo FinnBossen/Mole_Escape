@@ -1,9 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-git lfs track "Assets/**"
-git lfs track "Library/**"
-git lfs track "Logs/**"
-git lfs track "obj/**"
-git lfs track "Packages/**"
-git lfs track "ProjectSettings/**"
+git lfs track "*.asset"
+
+
 

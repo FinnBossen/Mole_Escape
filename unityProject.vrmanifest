@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vonkeyrongfinal.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\vrtest\\Desktop\\Neuer Ordner (2)\\VonkeyRong Final\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VonkeyRong Final [Testing]"
+        }
+      }
+    }
+  ]
+}
